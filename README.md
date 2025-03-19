@@ -30,7 +30,7 @@ just published a deep learning article 🧠 check it out [here](https://www.mdpi
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Caballero-Maria&layout=donut&theme=transparent&hide=jupyter%20notebook,html&hide_border=true" />
 </a>
 
-## Contact
+## ✍🏻 Contact
 
 featurings, suggestions, inquieries, complaints, flirts etc 👉🏻 [📩](mailto:pabcabmar3@alum.us.es)
 
