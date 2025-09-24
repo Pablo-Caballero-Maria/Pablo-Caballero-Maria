@@ -4,7 +4,7 @@
 
 ## 🤓 About Me
 
-its **Pablo** on the game 😈 rn im a software engineering student in Spain, then im doing an AI program in **China** and an AI master in **Poland**, stay tuned 🌍
+its **Pablo** on the game 😈 just graduated software engineering
 
 inside software i like AI, open source and software applied to physical/mental health
 
